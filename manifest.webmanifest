@@ -1,0 +1,10 @@
+{
+  "name": "AI TRADER FACTORY 3.1",
+  "short_name": "AI TRADER",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "description": "Analyse technique et simulation paper trading."
+}
